@@ -15,6 +15,13 @@ pip freeze > requirements.txt
 
 ```
 
+### creer un script pour les fichiers qu'on a besoin
+pour le lancer 
+
+```
+python template.py
+```
+
 
 # les ressources
 
