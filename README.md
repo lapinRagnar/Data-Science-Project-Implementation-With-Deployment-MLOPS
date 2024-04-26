@@ -14,3 +14,9 @@ pip freeze > requirements.txt
 ```
 
 ```
+
+
+# les ressources
+
+### le site du tuto
+https://www.youtube.com/watch?v=pxk1Fr33-L4
